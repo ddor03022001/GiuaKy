@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
               onPressed: () {},
             ),
             IconButton(
-              icon: const Icon(Icons.add, color: Colors.blue),
+              icon: const Icon(Icons.add, color: Colors.white),
               onPressed: () {},
             )
           ],
